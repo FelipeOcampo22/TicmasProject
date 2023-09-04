@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ticmas-Project</string>
+
+    <!-- Strings used for form tags -->
+    <string name="title">Comparador de textos</string>
+    <string name="string1">Ingrese un texto</string>
+    <string name="string2">Re-ingrese texto</string>
+
+    <!-- Strings used for action buttons -->
+    <string name="compare">Comparar </string>
+    <string name="retry">Reintentar</string>
+
+    <!-- Strings used to display the result -->
+    <string name="resetResult">"Ingrese los textos para comparar"</string>
+    <string name="okResult">"Textos ingresados son iguales"</string>
+    <string name="notOkResult">"Textos ingresados son diferentes"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
